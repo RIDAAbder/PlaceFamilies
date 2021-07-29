@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceFamilies", "PlaceFamilies\PlaceFamilies.csproj", "{606A5C34-6CC8-4239-BC38-2AC9A72B4E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceFamiliesLibrary", "PlaceFamiliesLibrary\PlaceFamiliesLibrary.csproj", "{3723F6CB-A60B-474D-BF6B-2D547B8D1AF9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlaceFamiliesInstaller", "PlaceFamiliesInstaller\PlaceFamiliesInstaller.vdproj", "{675EEF0D-B4B0-4259-9832-F322224555E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606A5C34-6CC8-4239-BC38-2AC9A72B4E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606A5C34-6CC8-4239-BC38-2AC9A72B4E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606A5C34-6CC8-4239-BC38-2AC9A72B4E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606A5C34-6CC8-4239-BC38-2AC9A72B4E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3723F6CB-A60B-474D-BF6B-2D547B8D1AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3723F6CB-A60B-474D-BF6B-2D547B8D1AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3723F6CB-A60B-474D-BF6B-2D547B8D1AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3723F6CB-A60B-474D-BF6B-2D547B8D1AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675EEF0D-B4B0-4259-9832-F322224555E8}.Debug|Any CPU.ActiveCfg = Debug
+		{675EEF0D-B4B0-4259-9832-F322224555E8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67643C10-A2F6-48EE-B4D6-157F7BBA5CEC}
+	EndGlobalSection
+EndGlobal

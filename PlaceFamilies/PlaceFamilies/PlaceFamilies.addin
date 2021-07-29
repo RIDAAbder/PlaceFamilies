@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>PlaceFamilies</Name>
+    <Assembly>PlaceFamilies.dll</Assembly>
+    <FullClassName>PlaceFamilies.Main</FullClassName>
+    <ClientId>65af753a-901d-4409-bd65-4c1ca05cb140</ClientId>
+    <VendorId>Abderrahmane RIDA</VendorId>
+    <VendorDescription>ridaaberrahmane@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
